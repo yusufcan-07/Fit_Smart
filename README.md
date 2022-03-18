@@ -1,4 +1,4 @@
-# Project Name: Fit & Smart
+# Project : Fit & Smart App
 
 
 
